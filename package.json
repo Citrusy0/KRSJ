@@ -2,7 +2,7 @@
   "name": "krsj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://citrusy0.github.io/krsj",
+  "homepage": "https://citrusy0.github.io/KRSJ",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
