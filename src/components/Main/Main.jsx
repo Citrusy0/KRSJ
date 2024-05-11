@@ -45,12 +45,13 @@ export default function Main() {
         </ul>
       </div>
       <div className='content'>
-        <h1>{`< This webpage is being updated >`}</h1>
+        <h6>Welcome to KRSJ Index</h6>
+        <h1>{`This webpage is being updated`}</h1>
         <h5>Please wait...</h5>
       </div>
       <footer>
         <p>Copyright &copy; 2024 - Property of Citrusy</p>
-        <p>Template provided by <a href='https://github.com/WickyPlays' target='_blank' rel='noreferrer'>Wicky</a></p>
+        <p className='template-credit'>Template provided by <a href='https://github.com/WickyPlays' target='_blank' rel='noreferrer'>Wicky</a></p>
       </footer>
     </div>
   );
