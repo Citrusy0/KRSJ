@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KRSJ/static/css/main.1a9ba8c3.css",
-    "main.js": "/KRSJ/static/js/main.7a2e77d4.js",
+    "main.css": "/KRSJ/static/css/main.9090eefc.css",
+    "main.js": "/KRSJ/static/js/main.ad2055f1.js",
     "static/js/453.613c31f5.chunk.js": "/KRSJ/static/js/453.613c31f5.chunk.js",
     "static/media/logo.svg": "/KRSJ/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KRSJ/index.html",
-    "main.1a9ba8c3.css.map": "/KRSJ/static/css/main.1a9ba8c3.css.map",
-    "main.7a2e77d4.js.map": "/KRSJ/static/js/main.7a2e77d4.js.map",
+    "main.9090eefc.css.map": "/KRSJ/static/css/main.9090eefc.css.map",
+    "main.ad2055f1.js.map": "/KRSJ/static/js/main.ad2055f1.js.map",
     "453.613c31f5.chunk.js.map": "/KRSJ/static/js/453.613c31f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a9ba8c3.css",
-    "static/js/main.7a2e77d4.js"
+    "static/css/main.9090eefc.css",
+    "static/js/main.ad2055f1.js"
   ]
 }
